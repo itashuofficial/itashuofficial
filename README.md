@@ -7,10 +7,10 @@ Web Development  | Cloud  | Kali Linux
 
 🔗 #WebDev #AI #Cloud #Cybersecurity #Collaboration 
 <hr>
-<br>
+
 🌍  I'm based in Currently pursuing Master's in Computer Application from Lovely Professional University<br>
 ✉️  You can contact me at itashuofficial@gmail.com 📥 <br>
-🤝  I'm open to collaborating on a new projects.
+🤝  I'm open to collaborating on a new projects.<br>
 
 
 <a href="www.linkedin.com/itashuofficial">LinkedIn 🚀 </a>
