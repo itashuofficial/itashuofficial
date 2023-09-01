@@ -1,17 +1,9 @@
 ### Hi there, About Me 👋
 
-<!--
-**itashuofficial/itashuofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi My name is Ashutosh Gupta
+Web Development || C++ || Security
+Passionate web developer ready to dive into AI, cloud, and cybersecurity. Eager to collaborate on innovative web projects. Let's connect and explore new tech frontiers together! 🔗 #WebDev #AI #Cloud #Cybersecurity #Collaboration
 
-Here are some ideas to get you started:
-
-- 🔭 I’m Currently Studying in Lovely Professional University located in Phagwara, Punjab, India.
-- 🔭 I’m Currently Preparing For Cloud Certifications.
-- 🌱 I’m currently learning Cyber Security/ Web Development/ Cloud.
-- 🌱 I’m currently Exploring My Content Creation Skills On Youtube.
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: https://www.linkedin.com/in/itashuofficial/ 
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Abhi Tak Mera Graduation Ka Result Nhi Aaya .
--->
+🌍  I'm based in Currently pursuing MCA from Lovely Professional University
+✉️  You can contact me at itashuofficial@gmail.com
+🤝  I'm open to collaborating on a new projects.
